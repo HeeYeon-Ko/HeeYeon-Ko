@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:EAD7F6,100:FFD8C8&height=180&text=HeeYeon&fontColor=2E243A&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7A6FF,100:FFB8A6&height=160&text=HeeYeon&fontColor=2F2538&fontSize=60&desc=Backend%20Developer&descAlign=50&descAlignY=78&descSize=18" />
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 6px;">Education</h2>
 <ul style="padding-left: 20px; margin-top: 0; color: #282d33; font-weight: 700; font-size: 15px;">
