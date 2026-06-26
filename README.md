@@ -9,7 +9,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2>  
     <ul style="padding-left: 20px; margin-top: 0; color: #282d33; font-weight: 700; font-size: 15px;">
   <li>University MakeUs Challenge 9th (2025.09 ~ 2026.02)</li>
-  <li>우리FIS 아카데미 클라우드 서비스 개발 6기 (2025.12.30 ~ ing)</li>
+  <li>우리FIS 아카데미 클라우드 서비스 개발 6기 (2025.12.30 ~ 2026.06.25)</li>
 </ul>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 6px;">
   Tech Stacks
